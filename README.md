@@ -10,7 +10,6 @@
   <a href="https://AndresF49.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&label=My Website&message=Link&color=blueviolet" alt="LinkedIn Badge">
   </a>
-  <img src="https://komarev.com/ghpvc/?AndresF49&style=for-the-badge&color=lightgrey" alt=""/>
 </div>
 
 ---
